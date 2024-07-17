@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/boshallen/boshallen/main/dist/github-contribution-grid-snake.svg)
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=boshallen" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshallen&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=boshallen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshallen&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
 

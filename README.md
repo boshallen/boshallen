@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 🏫 Studied at [**Hainan University**](https://www.hainanu.edu.cn/)
 - ⚡ Fun fact: Vision-Language Model, Large Language Model, Human–Computer Interaction and Natural Language Processing.
 - 📫 How to reach me: hanyanbo@hainanu.edu.cn
-- :orange_book: 技术博客：<https://blog.csdn.net/justjavac_>
-- :hammer:  个人网站：https://boshallen.github.io/
+- :orange_book: Tech blog：<https://blog.csdn.net/justjavac_>
+- :hammer:  Personal website：https://boshallen.github.io/
   
 ![](https://raw.githubusercontent.com/boshallen/boshallen/main/dist/github-contribution-grid-snake.svg)
 <div align="center">

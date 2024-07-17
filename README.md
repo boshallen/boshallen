@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🏫 Studied at [**Hainan University**](https://www.hainanu.edu.cn/) 
 - Connect with gmail (hanyanbo@hainanu.edu.cn)
 
-<!--
+
 ![](https://raw.githubusercontent.com/boshallen/boshallen/main/dist/github-contribution-grid-snake.svg)
 <div align="center">
 <span>&emsp;&emsp;</span>
@@ -33,4 +33,3 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/boshallen/boshallen/main/dist/github-contribution-grid-snake.svg)
 
--->

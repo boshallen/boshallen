@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **boshallen/boshallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,11 +15,16 @@ Here are some ideas to get you started:
 - 👨‍🔬 [**INFJ/INTJ**](https://www.16personalities.com/infj-personality) Personality
 -->
 
+
+### Hi there  🌅
+
 - 🔭 I’m currently working at [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
-- 🏫 Studied at [**Hainan University**](https://www.hainanu.edu.cn/) 
-- Connect with gmail (hanyanbo@hainanu.edu.cn)
-
-
+- 🏫 Studied at [**Hainan University**](https://www.hainanu.edu.cn/)
+- ⚡ Fun fact: Vision-Language Model, Large Language Model, Human–Computer Interaction and Natural Language Processing.
+- 📫 How to reach me: hanyanbo@hainanu.edu.cn
+- :orange_book: 技术博客：https://blog.csdn.net/justjavac_
+- :hammer:  个人网站：https://boshallen.github.io/
+  
 ![](https://raw.githubusercontent.com/boshallen/boshallen/main/dist/github-contribution-grid-snake.svg)
 <div align="center">
 <span>&emsp;&emsp;</span>
@@ -33,3 +36,8 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/boshallen/boshallen/main/dist/github-contribution-grid-snake.svg)
 
+
+![](https://img.shields.io/badge/CSDN-justjavac_-blue.svg)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=Visual%20Studio%20Code)
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)

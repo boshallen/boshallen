@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 - 👨‍🔬 [**INFJ/INTJ**](https://www.16personalities.com/infj-personality) Personality
 -->
-- 🏫 Studied at [**Hainan University**](https://www.hainanu.edu.cn/)
+
+- 🔭 I’m currently working at [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
+- 🏫 Studied at [**Hainan University**](https://www.hainanu.edu.cn/) 
 - Connect with gmail (hanyanbo@hainanu.edu.cn)
 
 <!--

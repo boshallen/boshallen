@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 - :hammer:  Personal website：https://boshallen.github.io/
   
 ![](https://raw.githubusercontent.com/boshallen/boshallen/main/dist/github-contribution-grid-snake.svg)
-<div align="center">
-<span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=boshallen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshallen&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=boshallen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshallen&layout=compact&langs_count=8" />
 </div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boshallen&theme=github-light&bg_color=white&title_color=black&area_color=black&)](https://github.com/boshallen/github-readme-activity-graph)
 

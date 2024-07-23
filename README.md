@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - 👨‍🔬 [**INFJ/INTJ**](https://www.16personalities.com/infj-personality) Personality
--->
+
 
 ### Hi there  🌅
+
+-->
+
+**About me**
 
 - 🔭 I’m currently working at [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
 - ⚡ Fun fact: Vision-Language Model, Large Language Model, Human–Computer Interaction and Natural Language Processing.

@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 
 - 👨‍🔬 [**INFJ/INTJ**](https://www.16personalities.com/infj-personality) Personality
 -->
-<p align="center"><a href="https://boshallen.github.io"><img width="80%" alt="Hello, I'm Han Yanbo. I love coding!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-
-I am currently seeking opportunities for a PhD program and research internships.
 
 ### Hi there  🌅
 

@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hanyanbo@pjlab.org.cn
 - :orange_book: Tech blog：<https://blog.csdn.net/justjavac_>
 - :hammer:  Personal website：https://boshallen.github.io/
-  
-![](https://raw.githubusercontent.com/boshallen/boshallen/main/dist/github-contribution-grid-snake.svg)
+
+  ![](https://raw.githubusercontent.com/boshallen/boshallen/main/dist/github-contribution-grid-snake.svg)
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=boshallen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boshallen&theme=github-light&bg_color=white&title_color=black&area_color=black&)](https://github.com/boshallen/github-readme-activity-graph)
 
 ![](https://raw.githubusercontent.com/boshallen/boshallen/main/dist/github-contribution-grid-snake.svg)
-
 
 ![](https://img.shields.io/badge/CSDN-justjavac_-blue.svg)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)

@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 ### Hi there  🌅
 
--->
-
-**About me**
-
 - 🔭 I’m currently working at [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
 - ⚡ Fun fact: Vision-Language Model, Large Language Model, Human–Computer Interaction and Natural Language Processing.
 - 📫 How to reach me: hanyanbo@pjlab.org.cn

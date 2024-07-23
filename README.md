@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 
 - 👨‍🔬 [**INFJ/INTJ**](https://www.16personalities.com/infj-personality) Personality
 -->
+<p align="center"><a href="https://boshallen.github.io"><img width="80%" alt="Hello, I'm Han Yanbo. I love coding!" src="./assets/gh-readme-header.png" /></a></p>
 
+<br />
+
+I am currently seeking opportunities for a PhD program and research internships.
 
 ### Hi there  🌅
 
 - 🔭 I’m currently working at [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
-- 🏫 Studied at [**Hainan University**](https://www.hainanu.edu.cn/)
 - ⚡ Fun fact: Vision-Language Model, Large Language Model, Human–Computer Interaction and Natural Language Processing.
-- 📫 How to reach me: hanyanbo@hainanu.edu.cn
+- 📫 How to reach me: hanyanbo@pjlab.org.cn
 - :orange_book: Tech blog：<https://blog.csdn.net/justjavac_>
 - :hammer:  Personal website：https://boshallen.github.io/
   

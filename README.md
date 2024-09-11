@@ -37,7 +37,7 @@ I am currently seeking opportunities for a **PhD program** and **research intern
 </div>
 -->
 <div style="display: flex; justify-content: space-between;">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=boshallen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="GitHub Activity Graph" style="width: 49%;">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=boshallen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="GitHub Activity Graph" style="width: 50%;">
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshallen&layout=compact&langs_count=8" style="width: 50%;">
 </div>
 

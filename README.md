@@ -53,6 +53,8 @@ I am currently seeking opportunities for a **PhD program** and **research intern
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boshallen&theme=github-light&bg_color=white&title_color=black&area_color=black&)](https://github.com/boshallen/github-readme-activity-graph)
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boshallen&theme=react-dark&bg_color=ffffff&color=0078D4&line=38bdae&point=1DA1F2&area=true&hide_border=true)](https://github.com/boshallen/github-readme-activity-graph)
+
 <!--
 ![](https://raw.githubusercontent.com/boshallen/boshallen/main/dist/github-contribution-grid-snake.svg)
 -->
